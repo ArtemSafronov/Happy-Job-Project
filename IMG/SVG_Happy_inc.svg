@@ -1,0 +1,19 @@
+<svg width="262" height="340" viewBox="0 0 262 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG_Happy_inc">
+<g id="Circle">
+<path id="Polygon 1" d="M133.259 177.816C133.656 177.379 134.344 177.379 134.741 177.816L142.009 185.828C142.592 186.471 142.136 187.5 141.269 187.5H126.731C125.864 187.5 125.408 186.471 125.991 185.828L133.259 177.816Z" fill="#70A74B"/>
+<path id="grey_line" d="M148.127 216.999C121.993 216.91 96.7521 207.476 76.9655 190.401C57.1788 173.325 44.1511 149.735 40.2359 123.893C36.3208 98.0501 41.7765 71.6592 55.6174 49.4881C69.4582 27.317 87.0652 12.3279 112 4.5" stroke="#ECECEC" stroke-width="7.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="green_line" d="M224.5 186C182 226.5 133 216 133 216C92 210 63.5 183 49.5 154" stroke="#70A84B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="yellow_line" d="M185 4.5C210 15 225.724 27.3655 241.5 49.4881C255.189 71.753 260.091 98.1847 256 124C251.909 149.815 242.5 167 224.5 186" stroke="#FCD329" stroke-width="7.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="line">
+<path id="Rectangle 4" d="M15 339C13.2707 339 11.7136 339 10.0003 339C7.79113 339 6 337.209 6 335C6 332.745 6 330.74 6 328" stroke="#B1B1B1" stroke-width="2"/>
+<path id="Rectangle 4_2" d="M30 102C23.8744 102 18.5589 102 12.0007 102C8.68698 102 6 104.701 6 108.015C6 184.38 6 229.89 6 306" stroke="#B1B1B1" stroke-width="2"/>
+<g id="plus">
+<line id="Line 1" y1="319" x2="12" y2="319" stroke="#B1B1B1" stroke-width="2"/>
+<line id="Line 2" x1="6" y1="313" x2="6" y2="325" stroke="#B1B1B1" stroke-width="2"/>
+</g>
+<line id="Line 3" x1="6" y1="286" x2="20" y2="286" stroke="#B1B1B1" stroke-width="2"/>
+</g>
+</g>
+</svg>

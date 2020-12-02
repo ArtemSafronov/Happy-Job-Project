@@ -1,0 +1,308 @@
+.object {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.flag {
+    position: absolute;
+    top: 25px;
+    left: 190px;
+}
+
+.seventytwo {
+    position: absolute;
+    font-family: gotham pro;
+    font-size: 48px;
+    font-weight: 200;
+    letter-spacing: -2px;
+    color: #555555;
+    top: 40px;
+    left: 170px;
+}
+
+.seven {
+    position: absolute;
+    font-family: gotham pro;
+    font-size: 24px;
+    font-weight: 200;
+    color: #555555;
+    top: 85px;
+    left: 229px; 
+}
+
+.percent {
+    position: absolute;
+    font-family: gotham pro;
+    font-size: 18px;
+    font-weight: 200;
+    color: #9C9B99;
+    top: 72px;
+    left: 229px; 
+}
+
+.loyalty {
+    position: absolute;
+    font-family: Arial;
+    font-size: 22px;
+    font-weight: 600;
+    color: #5B5B5B;
+    top: 115px;
+    left: 140px;
+}
+
+.low {
+    position: absolute;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 600;
+    color: #FBD229;
+    top: 150px;
+    left: 145px;
+}
+
+.numbers {
+    position: absolute;
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+    color: #B7B2B2;
+    top: 177px;
+    left: 130px;
+}
+
+.up {
+    position: absolute;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 400;
+    color: #70A74B;
+    top: 215px;
+    left: 205px; 
+}
+
+.promo {
+    position: absolute;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+    top: 320px;
+    left: 90px; 
+    word-spacing: 7px;
+}
+
+.skep {
+    position: absolute;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+    top: 365px;
+    left: 90px; 
+    word-spacing: 30px;
+}
+
+.critics {
+    position: absolute;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+    top: 410px;
+    left: 90px; 
+    word-spacing: 38px;
+}
+
+.human1 {
+    position: absolute;
+    top: 350px;
+    left: 211px;
+}
+
+.hum1 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 400;
+    color: #9D9D9C;
+    top: 338px;
+    left: 189px; 
+}
+
+.human2 {
+    position: absolute;
+    top: 395px;
+    left: 211px;
+}
+
+.hum2 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 400;
+    color: #9D9D9C;
+    top: 383px;
+    left: 198px; 
+}
+
+.human3 {
+    position: absolute;
+    top: 440px;
+    left: 211px;
+}
+
+.hum3 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 400;
+    color: #9D9D9C;
+    top: 428px;
+    left: 198px; 
+}
+
+.block {
+    position: absolute;
+    width: 90px;
+    height: 33px;
+    background-color: #F9F9F9;
+    border: 2px;
+    border-style: solid;
+    border-color: #ECECEC;
+    border-radius: 4px;
+    top: 327px;
+    left: 230px;
+}
+
+.greenblock {
+    position: absolute;
+    width: 31px;
+    height: 33px;
+    background-color: #70A74B;
+    border: 2px;
+    border-style: solid;
+    border-color: #70A74B;
+    border-radius: 4px;
+    top: 327px;
+    left: 230px;
+
+    animation-name: green-block;
+    animation-duration: 2s;
+}
+@keyframes green-block{
+    0%{
+        width: 0px;
+    }
+    100%{
+        width: 31px;
+    }
+}
+
+.block1 {
+    position: absolute;
+    width: 90px;
+    height: 33px;
+    background-color: #F9F9F9;
+    border: 2px;
+    border-style: solid;
+    border-color: #ECECEC;
+    border-radius: 4px;
+    top: 372px;
+    left: 230px;
+}
+
+.yellowblock {
+    position: absolute;
+    width: 31px;
+    height: 33px;
+    background-color: #FBD229;
+    border: 2px;
+    border-style: solid;
+    border-color: #FBD229;
+    border-radius: 4px;
+    top: 372px;
+    left: 230px;
+
+    animation-name: yellow-block;
+    animation-duration: 3s;
+}
+@keyframes yellow-block{
+    0%{
+        width: 0px;
+    }
+    100%{
+        width:31px;
+    }
+}
+
+.block2 {
+    position: absolute;
+    width: 90px;
+    height: 33px;
+    background-color: #F9F9F9;
+    border: 2px;
+    border-style: solid;
+    border-color: #ECECEC;
+    border-radius: 4px;
+    top: 417px;
+    left: 230px;
+}
+
+.redblock {
+    position: absolute;
+    width: 26px;
+    height: 33px;
+    background-color: #ED5243;
+    border: 2px;
+    border-style: solid;
+    border-color: #ED5243;
+    border-radius: 4px;
+    top: 417px;
+    left: 230px;
+
+    animation-name: red-block;
+    animation-duration: 3.5s;
+}
+@keyframes red-block{
+    0%{
+        width: 0px;
+    }
+    100%{
+        width:26px;
+    }
+}
+
+.num {
+    position: absolute;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #5d5d5d;
+    top: 328px;
+    left: 282px; 
+}
+
+.num1 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #5d5d5d;
+    top: 373px;
+    left: 282px; 
+}
+
+.num2 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #5d5d5d;
+    top: 418px;
+    left: 282px; 
+}
